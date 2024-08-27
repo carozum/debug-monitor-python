@@ -308,3 +308,20 @@ Arguments received by Sequential.call():
 2024-08-27 11:40:45,001 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:45] "GET /dashboard/api/overview HTTP/1.1" 200 -
 2024-08-27 11:40:45,103 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:45] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
 2024-08-27 11:42:46,164 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:42:46] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 11:45:37,659 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:45:37] "POST / HTTP/1.1" 200 -
+2024-08-27 11:45:37,663 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:45:37] "POST / HTTP/1.1" 200 -
+2024-08-27 11:45:37,670 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:45:37] "POST / HTTP/1.1" 200 -
+2024-08-27 11:45:37,865 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:45:37] "POST / HTTP/1.1" 200 -
+2024-08-27 11:45:37,871 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:45:37] "POST / HTTP/1.1" 200 -
+2024-08-27 11:45:41,638 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:45:41] "GET / HTTP/1.1" 200 -
+2024-08-27 11:45:45,837 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:45:45] "POST / HTTP/1.1" 200 -
+2024-08-27 11:45:53,095 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:45:53] "POST / HTTP/1.1" 200 -
+2024-08-27 11:48:03,287 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 11:48:03,290 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 11:48:19,698 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:19] "GET / HTTP/1.1" 200 -
+2024-08-27 11:48:20,804 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:20] "[36mGET /static/rennes.png HTTP/1.1[0m" 304 -
+2024-08-27 11:48:27,916 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:27] "GET / HTTP/1.1" 200 -
+2024-08-27 11:48:28,191 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:28] "[36mGET /static/rennes.png HTTP/1.1[0m" 304 -
+2024-08-27 11:48:33,982 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:33] "POST / HTTP/1.1" 200 -
+2024-08-27 11:48:44,500 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:44] "POST / HTTP/1.1" 200 -
