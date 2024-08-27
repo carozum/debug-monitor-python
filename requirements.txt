@@ -1,0 +1,5 @@
+flask_monitoringdashboard
+flask
+tensorflow
+pandas
+plotly

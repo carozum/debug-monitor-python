@@ -1,0 +1,310 @@
+2024-08-26 23:53:46,061 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-26 23:53:46,063 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-26 23:53:46,080 INFO werkzeug  * Restarting with stat
+2024-08-26 23:54:39,790 WARNING werkzeug  * Debugger is active!
+2024-08-26 23:54:39,842 INFO werkzeug  * Debugger PIN: 319-344-879
+2024-08-27 00:01:29,381 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 00:01:29,381 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 00:01:29,406 INFO werkzeug  * Restarting with stat
+2024-08-27 00:03:21,695 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 00:03:21,701 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 00:03:21,717 INFO werkzeug  * Restarting with stat
+2024-08-27 00:04:26,058 WARNING werkzeug  * Debugger is active!
+2024-08-27 00:04:26,086 INFO werkzeug  * Debugger PIN: 319-344-879
+2024-08-27 00:08:25,159 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-08-27 00:08:25,159 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 00:08:25,238 INFO werkzeug  * Restarting with stat
+2024-08-27 00:09:21,672 WARNING werkzeug  * Debugger is active!
+2024-08-27 00:09:21,699 INFO werkzeug  * Debugger PIN: 319-344-879
+2024-08-27 00:11:31,012 INFO werkzeug  * Detected change in '/Volumes/Expansion/AAA/debug-monitor-ai/rennes_traffic_ko-main/app.py', reloading
+2024-08-27 00:11:33,078 INFO werkzeug  * Restarting with stat
+2024-08-27 00:12:47,850 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 00:12:47,857 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 00:16:03,439 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 00:16:03,449 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 00:19:17,159 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 00:19:17,159 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 00:21:47,229 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 00:21:47,229 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 09:03:26,449 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 09:03:26,463 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 09:06:41,656 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:06:41] "GET / HTTP/1.1" 200 -
+2024-08-27 09:06:44,134 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:06:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-27 09:19:13,779 ERROR __main__ Erreur dans la route principale : Exception encountered when calling Sequential.call().
+
+[1mInput 0 of layer "dense_93" is incompatible with the layer: expected axis -1 of input shape to have value 24, but received input with shape (1, 25)[0m
+
+Arguments received by Sequential.call():
+  • inputs=tf.Tensor(shape=(1, 25), dtype=int64)
+  • training=False
+  • mask=None
+2024-08-27 09:19:13,781 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:19:13] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-08-27 09:36:17,919 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 09:36:17,931 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 09:41:16,281 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:41:16] "GET / HTTP/1.1" 200 -
+2024-08-27 09:41:17,331 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:41:17] "POST / HTTP/1.1" 200 -
+2024-08-27 09:41:18,351 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:41:18] "GET /static/rennes.png HTTP/1.1" 200 -
+2024-08-27 09:41:28,406 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:41:28] "POST / HTTP/1.1" 200 -
+2024-08-27 09:41:37,431 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:41:37] "POST / HTTP/1.1" 200 -
+2024-08-27 09:41:43,623 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:41:43] "POST / HTTP/1.1" 200 -
+2024-08-27 09:41:57,386 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:41:57] "POST / HTTP/1.1" 200 -
+2024-08-27 09:42:05,252 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:42:05] "POST / HTTP/1.1" 200 -
+2024-08-27 09:42:09,765 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:42:09] "POST / HTTP/1.1" 200 -
+2024-08-27 09:43:35,746 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:35] "[32mGET /dashboard HTTP/1.1[0m" 308 -
+2024-08-27 09:43:35,860 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:35] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 09:43:35,891 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:35] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 09:43:36,024 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:36] "GET /dashboard/static/css/main.css HTTP/1.1" 200 -
+2024-08-27 09:43:36,182 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:36] "GET /dashboard/static/js/app.js HTTP/1.1" 200 -
+2024-08-27 09:43:36,184 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:36] "GET /dashboard/static/img/header.png HTTP/1.1" 200 -
+2024-08-27 09:43:36,377 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:36] "GET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2024-08-27 09:43:37,014 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:37] "GET /dashboard/static/pages/overview.html HTTP/1.1" 200 -
+2024-08-27 09:43:37,063 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:37] "GET /dashboard/static/img/favicon.ico HTTP/1.1" 200 -
+2024-08-27 09:43:37,561 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:43:37] "GET /dashboard/static/js/app.js HTTP/1.1" 200 -
+2024-08-27 09:45:45,747 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:45:45] "POST /dashboard/login HTTP/1.1" 200 -
+2024-08-27 09:45:45,866 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:45:45] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 09:45:45,902 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:45:45] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 09:45:45,906 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:45:45] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 09:45:46,023 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:45:46] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 09:45:46,383 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:45:46] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 09:45:46,776 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:45:46] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 09:55:16,919 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:16] "[32mPOST /dashboard/login HTTP/1.1[0m" 302 -
+2024-08-27 09:55:16,952 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:16] "GET /dashboard/ HTTP/1.1" 200 -
+2024-08-27 09:55:17,072 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:17] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 09:55:17,139 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:17] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 09:55:17,150 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:17] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 09:55:17,761 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:17] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 09:55:17,965 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:17] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-27 09:55:18,048 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:18] "GET /dashboard/static/pages/telemetry.html HTTP/1.1" 200 -
+2024-08-27 09:55:18,052 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:18] "GET /dashboard/static/elements/menu.html HTTP/1.1" 200 -
+2024-08-27 09:55:18,053 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:18] "GET /dashboard/static/elements/modal.html HTTP/1.1" 200 -
+2024-08-27 09:55:18,073 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:18] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 09:55:18,293 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:18] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 09:55:18,405 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:55:18] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 09:56:00,414 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:00] "[35m[1mPOST /dashboard/telemetry/accept_telemetry_consent HTTP/1.1[0m" 204 -
+2024-08-27 09:56:20,771 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:20] "GET / HTTP/1.1" 200 -
+2024-08-27 09:56:40,321 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:40] "POST / HTTP/1.1" 200 -
+2024-08-27 09:56:46,276 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "GET /dashboard/overview HTTP/1.1" 200 -
+2024-08-27 09:56:46,421 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 09:56:46,424 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 09:56:46,465 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 09:56:46,723 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2024-08-27 09:56:46,727 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2024-08-27 09:56:46,733 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 09:56:46,735 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 09:56:46,841 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:46] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2024-08-27 09:56:47,802 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:47] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 09:56:48,450 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:48] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-27 09:56:48,460 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:48] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 09:56:48,501 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:56:48] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 09:57:37,214 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:37] "GET /dashboard/static/pages/plotly_graph.html HTTP/1.1" 200 -
+2024-08-27 09:57:37,271 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:37] "GET /dashboard/static/elements/endpointDetails.html HTTP/1.1" 200 -
+2024-08-27 09:57:37,332 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:37] "GET /dashboard/static/elements/monitorLevel.html HTTP/1.1" 200 -
+2024-08-27 09:57:37,676 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:37] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 09:57:47,645 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:47] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 09:57:47,651 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:47] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2024-08-27 09:57:48,133 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:48] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2024-08-27 09:57:48,702 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:48] "GET /dashboard/api/requests/2024-08-17/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 09:57:56,646 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:57:56] "POST / HTTP/1.1" 200 -
+2024-08-27 09:58:06,244 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:58:06] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 09:58:06,632 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:58:06] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2024-08-27 09:58:14,570 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:58:14] "GET /dashboard/static/pages/reporting.html HTTP/1.1" 200 -
+2024-08-27 09:58:18,585 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:58:18] "POST /dashboard/api/reporting/make_report/intervals HTTP/1.1" 200 -
+2024-08-27 09:58:30,524 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:58:30] "POST /dashboard/api/reporting/make_report/intervals HTTP/1.1" 200 -
+2024-08-27 09:58:40,548 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:58:40] "POST /dashboard/api/reporting/make_report/intervals HTTP/1.1" 200 -
+2024-08-27 09:58:44,802 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:58:44] "POST /dashboard/api/reporting/make_report/intervals HTTP/1.1" 200 -
+2024-08-27 09:59:59,831 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 09:59:59] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 10:00:00,205 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:00] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 10:00:00,552 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:00] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 10:00:21,710 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:21] "GET /dashboard/static/pages/configuration.html HTTP/1.1" 200 -
+2024-08-27 10:00:21,746 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:21] "GET /dashboard/api/users HTTP/1.1" 200 -
+2024-08-27 10:00:21,832 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:21] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 10:00:22,180 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:22] "GET /dashboard/api/deploy_config HTTP/1.1" 200 -
+2024-08-27 10:00:22,194 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:22] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 10:00:36,364 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:36] "GET /dashboard/static/pages/database_management.html HTTP/1.1" 200 -
+2024-08-27 10:00:36,426 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:36] "[33mGET /dashboard/database_pruning/get_pruning_schedule HTTP/1.1[0m" 404 -
+2024-08-27 10:00:36,427 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:00:36] "GET /dashboard/database_pruning/get_database_size HTTP/1.1" 200 -
+2024-08-27 10:04:51,368 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:04:51] "GET /dashboard/api/requests/2024-08-17/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:05:02,009 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:05:02] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 10:05:02,010 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:05:02] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2024-08-27 10:05:02,318 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:05:02] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2024-08-27 10:05:08,140 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:05:08] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:05:20,325 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:05:20] "GET /dashboard/api/hourly_load/2024-08-26/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:05:24,577 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:05:24] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 10:05:24,966 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:05:24] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 10:05:25,085 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:05:25] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 10:06:09,110 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:09] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:06:12,151 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:12] "GET /dashboard/api/requests/2024-08-17/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:06:24,328 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:24] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 10:06:24,627 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:24] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2024-08-27 10:06:29,659 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:29] "GET /dashboard/reporting HTTP/1.1" 200 -
+2024-08-27 10:06:29,751 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:29] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 10:06:29,751 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:29] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 10:06:29,868 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:29] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 10:06:30,088 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:30] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2024-08-27 10:06:30,088 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:30] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2024-08-27 10:06:30,094 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:30] "[36mGET /dashboard/static/pages/reporting.html HTTP/1.1[0m" 304 -
+2024-08-27 10:06:30,196 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:30] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 10:06:30,459 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:30] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-27 10:06:33,312 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:33] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 10:06:33,369 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:33] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2024-08-27 10:06:33,387 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:33] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 10:06:33,658 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:33] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 10:06:33,833 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:33] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 10:06:34,932 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:34] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2024-08-27 10:06:34,983 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:34] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2024-08-27 10:06:34,993 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:34] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2024-08-27 10:06:35,272 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:35] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:06:39,559 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:39] "GET /dashboard/api/requests/2024-08-17/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:06:47,086 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:47] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 10:06:47,418 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:47] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2024-08-27 10:06:54,267 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:54] "POST /dashboard/api/reporting/make_report/intervals HTTP/1.1" 200 -
+2024-08-27 10:06:56,664 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:06:56] "POST /dashboard/api/reporting/make_report/intervals HTTP/1.1" 200 -
+2024-08-27 10:08:12,432 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:08:12] "POST / HTTP/1.1" 200 -
+2024-08-27 10:08:16,703 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:08:16] "POST / HTTP/1.1" 200 -
+2024-08-27 10:08:22,852 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:08:22] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:09:24,225 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:09:24] "GET /dashboard/api/requests/2024-08-17/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:13:24,769 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:24] "GET / HTTP/1.1" 200 -
+2024-08-27 10:13:38,132 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:38] "GET / HTTP/1.1" 200 -
+2024-08-27 10:13:38,377 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:38] "[36mGET /static/rennes.png HTTP/1.1[0m" 304 -
+2024-08-27 10:13:51,088 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:51] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:13:55,122 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:55] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 10:13:55,122 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:55] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2024-08-27 10:13:55,417 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:55] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2024-08-27 10:13:57,687 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:57] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 10:13:57,978 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:57] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 10:13:58,406 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:13:58] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 10:27:45,824 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 10:27:45,833 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 10:29:34,223 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 10:29:34,227 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 10:29:59,273 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:29:59] "GET / HTTP/1.1" 200 -
+2024-08-27 10:29:59,286 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:29:59] "GET / HTTP/1.1" 200 -
+2024-08-27 10:29:59,287 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:29:59] "GET / HTTP/1.1" 200 -
+2024-08-27 10:29:59,924 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:29:59] "[36mGET /static/rennes.png HTTP/1.1[0m" 304 -
+2024-08-27 10:30:07,798 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:07] "POST / HTTP/1.1" 200 -
+2024-08-27 10:30:07,799 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:07] "POST / HTTP/1.1" 200 -
+2024-08-27 10:30:15,059 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:15] "POST / HTTP/1.1" 200 -
+2024-08-27 10:30:18,666 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:18] "POST / HTTP/1.1" 200 -
+2024-08-27 10:30:26,538 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:26] "GET /dashboard/overview HTTP/1.1" 200 -
+2024-08-27 10:30:26,639 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:26] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 10:30:26,645 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:26] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 10:30:26,760 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:26] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 10:30:27,148 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:27] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2024-08-27 10:30:27,149 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:27] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2024-08-27 10:30:27,170 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:27] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 10:30:27,422 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:27] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-27 10:30:27,434 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:27] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 10:30:27,469 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:27] "[36mGET /dashboard/static/pages/telemetry.html HTTP/1.1[0m" 304 -
+2024-08-27 10:30:27,687 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:27] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 10:30:27,813 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:27] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 10:30:29,280 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:29] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 10:30:29,310 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:29] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2024-08-27 10:30:43,264 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:43] "POST /dashboard/api/set_rule HTTP/1.1" 200 -
+2024-08-27 10:30:44,663 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:44] "POST /dashboard/api/set_rule HTTP/1.1" 200 -
+2024-08-27 10:30:45,267 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:45] "POST /dashboard/api/set_rule HTTP/1.1" 200 -
+2024-08-27 10:30:48,547 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:48] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2024-08-27 10:30:48,611 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:48] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2024-08-27 10:30:48,882 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:30:48] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:31:02,165 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:31:02] "GET /dashboard/api/versions HTTP/1.1" 200 -
+2024-08-27 10:31:02,166 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:31:02] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 10:31:02,538 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:31:02] "POST /dashboard/api/multi_version HTTP/1.1" 200 -
+2024-08-27 10:37:28,624 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:37:28] "GET /dashboard/api/requests/2024-08-17/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:37:36,932 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:37:36] "GET /dashboard/api/endpoints_hits HTTP/1.1" 200 -
+2024-08-27 10:37:37,661 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:37:37] "POST /dashboard/api/api_performance HTTP/1.1" 200 -
+2024-08-27 10:40:03,193 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:40:03] "GET /dashboard/api/requests/2024-08-17/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:40:46,769 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:40:46] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 10:40:58,049 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:40:58] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 10:40:58,484 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:40:58] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 10:40:58,656 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:40:58] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 10:41:03,351 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:03] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27/1 HTTP/1.1" 200 -
+2024-08-27 10:41:03,359 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:03] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:41:09,507 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:09] "GET /dashboard/api/users/1 HTTP/1.1" 200 -
+2024-08-27 10:41:09,512 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:09] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:41:09,522 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:09] "GET /dashboard/api/versions/1 HTTP/1.1" 200 -
+2024-08-27 10:41:09,824 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:09] "POST /dashboard/api/version_user/1 HTTP/1.1" 200 -
+2024-08-27 10:41:11,780 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:11] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:41:11,798 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:11] "GET /dashboard/api/ip/1 HTTP/1.1" 200 -
+2024-08-27 10:41:11,815 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:11] "GET /dashboard/api/versions/1 HTTP/1.1" 200 -
+2024-08-27 10:41:12,334 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:12] "POST /dashboard/api/version_ip/1 HTTP/1.1" 200 -
+2024-08-27 10:41:17,986 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:17] "GET /dashboard/api/versions/1 HTTP/1.1" 200 -
+2024-08-27 10:41:17,992 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:17] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:41:18,286 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:18] "POST /dashboard/api/endpoint_versions/1 HTTP/1.1" 200 -
+2024-08-27 10:41:23,760 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:23] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:41:23,761 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:23] "GET /dashboard/api/users/1 HTTP/1.1" 200 -
+2024-08-27 10:41:24,098 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:24] "POST /dashboard/api/endpoint_users/1 HTTP/1.1" 200 -
+2024-08-27 10:41:26,378 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:26] "GET /dashboard/static/pages/outliers.html HTTP/1.1" 200 -
+2024-08-27 10:41:26,432 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:26] "GET /dashboard/static/elements/pagination.html HTTP/1.1" 200 -
+2024-08-27 10:41:26,712 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:26] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:41:26,738 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:26] "GET /dashboard/api/num_outliers/1 HTTP/1.1" 200 -
+2024-08-27 10:41:26,739 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:26] "GET /dashboard/api/outlier_graph/1 HTTP/1.1" 200 -
+2024-08-27 10:41:27,196 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:27] "GET /dashboard/api/outlier_table/1/0/5 HTTP/1.1" 200 -
+2024-08-27 10:41:32,544 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:32] "GET /dashboard/static/pages/status_code_distribution.html HTTP/1.1" 200 -
+2024-08-27 10:41:32,917 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:32] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:41:32,918 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:41:32] "GET /dashboard/api/endpoint_status_code_summary/1 HTTP/1.1" 200 -
+2024-08-27 10:46:52,873 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:46:52] "GET /dashboard/static/pages/grouped_profiler.html HTTP/1.1" 200 -
+2024-08-27 10:46:53,376 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:46:53] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:46:53,383 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:46:53] "GET /dashboard/api/grouped_profiler/1 HTTP/1.1" 200 -
+2024-08-27 10:47:06,370 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:06] "GET /dashboard/static/pages/profiler.html HTTP/1.1" 200 -
+2024-08-27 10:47:06,813 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:06] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:47:06,814 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:06] "GET /dashboard/api/num_profiled/1 HTTP/1.1" 200 -
+2024-08-27 10:47:07,236 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:07] "GET /dashboard/api/profiler_table/1/0/5 HTTP/1.1" 200 -
+2024-08-27 10:47:09,467 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:09] "POST /dashboard/api/set_rule HTTP/1.1" 200 -
+2024-08-27 10:47:10,729 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:10] "POST /dashboard/api/set_rule HTTP/1.1" 200 -
+2024-08-27 10:47:20,230 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:20] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:47:20,230 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:20] "GET /dashboard/api/users/1 HTTP/1.1" 200 -
+2024-08-27 10:47:20,666 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:20] "POST /dashboard/api/endpoint_users/1 HTTP/1.1" 200 -
+2024-08-27 10:47:26,233 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:26] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:47:26,235 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:26] "GET /dashboard/api/versions/1 HTTP/1.1" 200 -
+2024-08-27 10:47:27,102 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:27] "POST /dashboard/api/endpoint_versions/1 HTTP/1.1" 200 -
+2024-08-27 10:47:29,421 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:29] "GET /dashboard/api/ip/1 HTTP/1.1" 200 -
+2024-08-27 10:47:29,424 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:29] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:47:29,437 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:29] "GET /dashboard/api/versions/1 HTTP/1.1" 200 -
+2024-08-27 10:47:29,749 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:29] "POST /dashboard/api/version_ip/1 HTTP/1.1" 200 -
+2024-08-27 10:47:33,602 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:33] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:47:33,613 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:33] "GET /dashboard/api/users/1 HTTP/1.1" 200 -
+2024-08-27 10:47:33,613 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:33] "GET /dashboard/api/versions/1 HTTP/1.1" 200 -
+2024-08-27 10:47:34,003 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:34] "POST /dashboard/api/version_user/1 HTTP/1.1" 200 -
+2024-08-27 10:47:37,183 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:37] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27/1 HTTP/1.1" 200 -
+2024-08-27 10:47:37,186 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:37] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 10:47:52,956 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:52] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 10:47:53,235 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:53] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 10:47:53,409 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 10:47:53] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 11:00:30,469 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:00:30] "GET / HTTP/1.1" 200 -
+2024-08-27 11:00:34,636 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:00:34] "POST / HTTP/1.1" 200 -
+2024-08-27 11:00:38,270 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:00:38] "POST / HTTP/1.1" 200 -
+2024-08-27 11:00:42,431 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:00:42] "POST / HTTP/1.1" 200 -
+2024-08-27 11:03:12,912 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:03:12] "[36mGET /dashboard/static/pages/configuration.html HTTP/1.1[0m" 304 -
+2024-08-27 11:03:13,090 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:03:13] "GET /dashboard/api/users HTTP/1.1" 200 -
+2024-08-27 11:03:13,090 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:03:13] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 11:03:13,496 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:03:13] "GET /dashboard/api/deploy_config HTTP/1.1" 200 -
+2024-08-27 11:03:13,619 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:03:13] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 11:03:28,150 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:03:28] "[36mGET /dashboard/static/pages/database_management.html HTTP/1.1[0m" 304 -
+2024-08-27 11:03:28,181 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:03:28] "[33mGET /dashboard/database_pruning/get_pruning_schedule HTTP/1.1[0m" 404 -
+2024-08-27 11:03:28,181 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:03:28] "GET /dashboard/database_pruning/get_database_size HTTP/1.1" 200 -
+2024-08-27 11:35:22,137 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 11:35:22,143 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 11:39:36,479 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:39:36] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 11:39:36,856 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:39:36] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 11:39:37,838 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:39:37] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 11:40:03,955 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:03] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27/1 HTTP/1.1" 200 -
+2024-08-27 11:40:03,961 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:03] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 11:40:06,133 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:06] "GET /dashboard/api/endpoint_info/1 HTTP/1.1" 200 -
+2024-08-27 11:40:06,183 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:06] "GET /dashboard/api/num_profiled/1 HTTP/1.1" 200 -
+2024-08-27 11:40:06,620 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:06] "GET /dashboard/api/profiler_table/1/0/5 HTTP/1.1" 200 -
+2024-08-27 11:40:44,718 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:44] "GET /dashboard/telemetry/get_is_telemetry_answered HTTP/1.1" 200 -
+2024-08-27 11:40:45,001 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:45] "GET /dashboard/api/overview HTTP/1.1" 200 -
+2024-08-27 11:40:45,103 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:40:45] "GET /dashboard/api/deploy_details HTTP/1.1" 200 -
+2024-08-27 11:42:46,164 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:42:46] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
