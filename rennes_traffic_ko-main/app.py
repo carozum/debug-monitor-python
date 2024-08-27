@@ -30,7 +30,7 @@ except Exception as e:
 # chargement du modèle
 try:
     logger.debug("chargement du model...")
-    model = load_model('model.h5')
+    model = load_model('model.h5', compile=False)
     logger.debug("model chargé avec succès")
 except Exception as e:
     logger.error(f"Failed to load model: {e}")

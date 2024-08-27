@@ -325,3 +325,26 @@ Arguments received by Sequential.call():
 2024-08-27 11:48:28,191 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:28] "[36mGET /static/rennes.png HTTP/1.1[0m" 304 -
 2024-08-27 11:48:33,982 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:33] "POST / HTTP/1.1" 200 -
 2024-08-27 11:48:44,500 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 11:48:44] "POST / HTTP/1.1" 200 -
+2024-08-27 12:06:47,399 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 12:06:47,409 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 12:08:12,893 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:08:12] "GET / HTTP/1.1" 200 -
+2024-08-27 12:09:49,652 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:09:49] "POST / HTTP/1.1" 200 -
+2024-08-27 12:10:42,611 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:10:42] "POST / HTTP/1.1" 200 -
+2024-08-27 12:11:58,515 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:58] "GET /dashboard/hourly_load HTTP/1.1" 200 -
+2024-08-27 12:11:58,633 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:58] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:11:58,634 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:58] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:11:58,700 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:58] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:11:59,127 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:59] "[36mGET /dashboard/static/elements/menu.html HTTP/1.1[0m" 304 -
+2024-08-27 12:11:59,145 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:59] "[36mGET /dashboard/static/elements/modal.html HTTP/1.1[0m" 304 -
+2024-08-27 12:11:59,147 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:59] "[36mGET /dashboard/static/pages/plotly_graph.html HTTP/1.1[0m" 304 -
+2024-08-27 12:11:59,207 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:59] "GET /dashboard/api/custom_graphs HTTP/1.1" 200 -
+2024-08-27 12:11:59,216 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:59] "GET /dashboard/api/hourly_load/2024-08-13/2024-08-27 HTTP/1.1" 200 -
+2024-08-27 12:11:59,220 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:59] "[36mGET /dashboard/static/elements/endpointDetails.html HTTP/1.1[0m" 304 -
+2024-08-27 12:11:59,225 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:59] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 12:11:59,317 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 12:11:59] "[36mGET /dashboard/static/elements/monitorLevel.html HTTP/1.1[0m" 304 -
+2024-08-27 19:36:06,286 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 19:36:06,323 INFO werkzeug [33mPress CTRL+C to quit[0m
+2024-08-27 19:45:12,578 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 19:45:12] "GET / HTTP/1.1" 200 -
+2024-08-27 19:45:24,731 INFO werkzeug 127.0.0.1 - - [27/Aug/2024 19:45:24] "POST / HTTP/1.1" 200 -
